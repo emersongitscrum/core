@@ -2,7 +2,12 @@
 
 <div id="app" class="App">
 
-    <div id="app-navigation" class="App-navigation"></div>
+    <div id="app-navigation" class="App-navigation">
+        <div class="top-reader">
+            <div class="col-md-6">Agile Project Management Tool for growing businesses </div>
+            <div class="col-md-6">Trusted by more than 40k+ professionals in over 150 countries</div>
+        </div>        
+    </div>
 
     <div id="drawer" class="App-drawer">
 

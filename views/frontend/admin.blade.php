@@ -3,7 +3,9 @@
     <div id="app-navigation" class="App-navigation"></div>
 
     <div id="drawer" class="App-drawer">
-
+        <div>
+            <h1>Emerson Santana</h1>
+        </div>
         <header id="header" class="App-header">
             <div id="header-navigation" class="Header-navigation"></div>
             <div class="container">
